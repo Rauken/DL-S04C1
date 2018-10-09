@@ -1,0 +1,16 @@
+.header{
+  background-image: url("../images/bg2.jpg");
+  background-size: cover;
+  height: 50vh;
+  color: white;
+  margin-top: 0px;
+  padding-top: 60px;
+}
+
+.navbar{
+  margin-bottom: 0px;
+}
+
+h1{
+  margin-top: 0px;
+}
